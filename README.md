@@ -49,7 +49,7 @@ First install `urql` and `graphql`:
 ```sh
 yarn add urql graphql
 # or
-npm intall --save urql graphql
+npm install --save urql graphql
 ```
 
 Create a client for your endpoint url and wrap your app with a `<Provider>` component which `urql` exposes:
